@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ss1062003&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ss1062003&theme=vision-friendly-dark&hide_border=false)<br/>
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ss1062003&theme=gruvbox"/></div>
+<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ss1062003&theme=gruvbox"/></div>
 <br />
 
 <br/>
