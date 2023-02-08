@@ -23,7 +23,10 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss1062003&layout=compact)](https://github.com/ss1062003/github-readme-stats) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ss1062003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+![](https://github-profile-trophy.vercel.app/?username=ss1062003&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@SHUBHAM00569182)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
