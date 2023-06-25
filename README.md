@@ -16,7 +16,6 @@
 <br>
 
 
-
 <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ss1062003&theme=gruvbox"/></div>
 <br />
 <br/>
