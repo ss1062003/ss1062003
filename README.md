@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Second Year Engineering Student From Mumbai<br>🔭 I’m Currently Working On Developing New Projects To Solve The Problems<br>👯 I’m Looking To Collaborate On Working Together And Sharing Ideas & Resources<br>📚 I’m Currently Learning Python<br>❓ We Can Have Great Conversation About Programming Languages And New Technologies<br>⚡ Fun fact : How You Earned A Childhood Nickname
+🎓 I'm a Third Year Engineering Student From Mumbai<br>🔭 I’m Currently Working On Developing New Projects To Solve The Problems<br>👯 I’m Looking To Collaborate On Working Together And Sharing Ideas & Resources<br>📚 I’m Currently Learning Python<br>❓ We Can Have Great Conversation About Programming Languages And New Technologies<br>⚡ Fun fact : How You Earned A Childhood Nickname
 
 
 ## 🌐 Socials:
